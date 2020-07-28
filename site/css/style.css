@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* Custom Properties, update these for your own design */
+/* Custom Properties*/
 
 :root {
     --ff-primary: 'Source Sans Pro', sans-serif;
